@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Build output (Vercel builds from source)
+dist/
+
+# Environment files
+.env*
+
+# OS / editor junk
+.DS_Store
+
+# Local tool state (contains machine-specific paths)
+.impeccable/
+.cursor/
+.codex/
